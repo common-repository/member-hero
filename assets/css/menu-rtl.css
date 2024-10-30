@@ -1,0 +1,80 @@
+.toplevel_page_memberhero div.dashicons-admin-generic:before {
+	content: '';
+	background-image: url(../images/menu.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 20px 20px;
+	opacity: 0.7;
+	width: 20px;
+	height: 34px;
+	padding: 0;
+}
+
+.toplevel_page_memberhero.wp-menu-open div.dashicons-admin-generic:before {
+	opacity: 1 !important;
+}
+
+.toplevel_page_memberhero:hover div.dashicons-admin-generic:before {
+	opacity: 1;
+}
+
+.memberhero-rating-link {
+	text-decoration: none;
+}
+
+.field-who_can_view label {
+	margin: 0 7px 0 0;
+	font-style: normal;
+}
+
+.memberhero-field-group label {
+	display: inline-block;
+}
+
+.memberhero-field-group select,
+.memberhero-field-group input[type=text] {
+	display: block;
+}
+
+.memberhero-field-group h4 {
+	margin: 1em 0;
+}
+
+.memberhero-field-group .components-panel__row {
+	margin: 8px 0;
+}
+
+.memberhero-info {
+	background: #fcfcfc;
+	border-radius: 6px;
+	padding: 8px 20px;
+}
+
+.memberhero-info img {
+	width: 600px;
+	display: block;
+}
+
+.memberhero-greyed {
+	opacity: 0.5;
+	pointer-events: none;
+}
+
+.memberhero-status-block {
+	font-size: 1.2rem;
+	margin: 5rem 0;
+	text-align: center;
+	display: none;
+}
+
+.memberhero-note {
+    background: #f6ffff;
+    padding: 10px 12px;
+    margin: 1rem 0;
+    border: 1px solid #bae1e4;
+    border-radius: 6px;
+}
+
+.memberhero-conditional {
+
+}

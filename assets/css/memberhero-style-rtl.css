@@ -1,0 +1,444 @@
+/**
+ *****
+ *********
+ */
+a.memberhero-button.main,
+a.memberhero-button.main:focus,
+input[type=submit].memberhero-button,
+input[type=submit].memberhero-button:focus,
+.selectize-control.multi .selectize-input [data-value].active,
+.selectize-control.multi .selectize-input > div,
+.memberhero-thankyou-icon {
+	background: rgba(2, 127, 210, 0.85);
+}
+
+.toggle-on,
+.memberhero-profile-photo-add,
+a.memberhero-button.main:hover,
+a.memberhero-button.main:active,
+input[type=submit].memberhero-button:hover,
+input[type=submit].memberhero-button:active,
+.selectize-dropdown .active,
+.selectize-control.multi .selectize-input [data-value],
+.memberhero-alt .memberhero-flex-message {
+	background: rgb(2, 127, 210) !important;
+}
+
+.memberhero-alt .memberhero-flex-message:hover {
+	background: rgba(2, 127, 210, 0.85) !important;
+}
+
+.memberhero-dropdown li a:hover,
+.memberhero-dropdown li a:focus,
+.memberhero-dropdown li a:active,
+.memberhero-dropdown-link:hover,
+.memberhero-dropdown-link:focus,
+.memberhero-dropdown-link:active,
+.memberhero-dropdown-hover {
+	background: rgba(2, 127, 210, 0.08) !important;
+}
+
+.memberhero-nav li a:hover,
+.memberhero-nav li a:active:hover,
+.memberhero-nav li a:focus:hover,
+.memberhero-nav li.is-active a:hover {
+	background: rgba(2, 127, 210, 0.03);
+}
+
+.cr-slider::-webkit-slider-runnable-track {
+	background: rgba(2, 127, 210, 0.08);
+}
+
+.cr-slider::-moz-range-track {
+    background: rgba(2, 127, 210, 0.08);
+}
+
+.memberhero-profile-cover,
+.memberhero-profile-cover.empty-cover {
+	background: rgba(2, 127, 210, 0.18);
+}
+
+.memberhero a,
+.memberhero a:hover,
+.memberhero-nav li a:hover,
+.memberhero-nav li a:focus,
+.memberhero-nav li.is-active a:hover,
+.memberhero-nav li.is-active a:focus,
+.memberhero .memberhero-helper a,
+.memberhero .memberhero-controls a,
+.memberhero .memberhero-notice-text a,
+.memberhero-input .memberhero-input svg,
+.star-on-png:before,
+.memberhero-profile-nav-ul li.is-active a,
+.memberhero-profile-meta .memberhero-profile-metadata span a,
+li.memberhero-account-navigation-link.is-active .memberhero-nav-icon,
+.memberhero-item-text a,
+.memberhero-item-text a:hover,
+.memberhero-item-text a:visited,
+.memberhero-modal .modal-search svg,
+.memberhero-modal .modal-body a,
+.memberhero-flex-col button,
+.widget.memberhero_widget a,
+.widget.memberhero_widget a:hover,
+.memberhero-item-flex span a,
+.memberhero-item-flex span a:hover,
+.memberhero-profile-bio a:visited {
+	color: rgb(2, 127, 210);
+}
+
+.memberhero-flex-action a,
+.memberhero-section-footer a {
+	color: rgb(2, 127, 210) !important;
+}
+
+.memberhero-input .memberhero-input.memberhero-radio svg {
+	fill: rgb(2, 127, 210);
+}
+
+.memberhero-profile-tabs li.is-active a {
+	border-bottom-color: rgba(2, 127, 210, 0.9);
+}
+
+.cr-slider::-webkit-slider-thumb {
+	border: 1px solid rgba(2, 127, 210, 0.6);
+}
+
+.cr-slider::-moz-range-thumb {
+	border: 1px solid rgba(2, 127, 210, 0.6);
+}
+
+.selectize-control.multi .selectize-input > div,
+.selectize-control.multi .selectize-input > div.active {
+	border: 1px solid rgba(2, 127, 210, 0.6);
+}
+
+.emojionearea .emojionearea-picker .emojionearea-filters .emojionearea-filter.active {
+	border-bottom: 2px solid rgba(2, 127, 210);
+}
+
+.memberhero-ripple {
+	border: 3px solid rgba(2, 127, 210, 0.2);
+	border-top-color: rgba(2, 127, 210);
+}
+
+.memberhero .memberhero-btn:focus,
+a.memberhero-button.main:focus,
+input[type=submit].memberhero-button:focus,
+a.memberhero-action-menu:focus,
+.memberhero-profile-photo-link:focus,
+.memberhero-paginate a.page-numbers:focus,
+.memberhero-field-toggle .memberhero-toggle:focus,
+.memberhero-modal .modal-close:focus {
+	box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(2, 127, 210, 0.4);
+}
+
+a.memberhero-button.main:active,
+input[type=submit].memberhero-button:active {
+	box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(2, 127, 210, 0.8);
+}
+
+.memberhero-profile-nav-ul li.is-active img.avatar {
+	box-shadow: 0 0 0 2px rgb(2, 127, 210);
+}
+
+.memberhero-input input[type=text]:focus,
+.memberhero-input input[type=password]:focus,
+.memberhero-input textarea:focus,
+.memberhero-flex-col .emojionearea.focused,
+.emojionearea.focused,
+.memberhero-input .selectize-input.focus,
+.selectize-dropdown.single {
+	border: 1px solid rgba(2, 127, 210, 0.7) !important;
+    box-shadow: 0 0 0 1px rgba(2, 127, 210, 0.7) !important;
+}
+
+.memberhero-input input[type=checkbox]:focus,
+.memberhero-input input[type=radio]:focus {
+	border: 1px solid rgba(2, 127, 210, 0.3) !important;
+    box-shadow: 0 0 0 1px rgba(2, 127, 210, 0.8) !important;
+}
+
+.memberhero-input input[type=text]:-webkit-autofill,
+.memberhero-input input[type=password]:-webkit-autofill {
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05) inset, 0 0 0 50px #fff inset !important;
+	-webkit-text-fill-color: #666 !important;
+}
+
+.memberhero-input input[type=text]:-webkit-autofill:focus,
+.memberhero-input input[type=password]:-webkit-autofill:focus {
+	border: 1px solid rgba(2, 127, 210, 0.7) !important;
+	box-shadow: 0 0 0 1px rgba(2, 127, 210, 0.7), 0 0 0 50px #fff inset !important;
+	-webkit-text-fill-color: #666 !important;
+}
+
+.memberhero-profile-cover-edit-overlay:hover,
+.memberhero-profile-photo-edit-overlay:hover {
+	box-shadow: inset 0 0 0 5px rgba(2, 127, 210, 0.8) !important;
+}
+
+a.memberhero-button.disabled,
+a.memberhero-button.disabled:hover,
+a.memberhero-button.disabled:focus,
+a.memberhero-button.disabled:active,
+input[type=submit].memberhero-button.disabled,
+input[type=submit].memberhero-button.disabled:hover,
+input[type=submit].memberhero-button.disabled:focus,
+input[type=submit].memberhero-button.disabled:active {
+	box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(2, 127, 210, 0.2) !important;
+	background: rgba(2, 127, 210, 0.5) !important;
+}
+
+input[type=text].memberhero-search-input:focus {
+	box-shadow: 0 0 0 0 #fff, 0 0 0 2px rgba(2, 127, 210, 0.4);
+}
+
+/**
+ *****
+ *********
+ */
+.memberhero-item-subhead ins {
+	background: rgba(76, 76, 76, 0.1);
+}
+
+.memberhero-paginate .page-numbers.current {
+	background: rgba(76, 76, 76, 0.85);
+}
+
+.memberhero-modal .modal-footer.alt {
+	background: rgba(76, 76, 76, 0.08);
+}
+
+.selectize-dropdown [data-selectable] .highlight {
+	background: rgba(76, 76, 76, 0.15);
+}
+
+li.memberhero-profile-navigation-link span.count {
+	background: rgba(76, 76, 76, 0.5);
+}
+
+.memberhero-nav li a,
+.memberhero-label label,
+.memberhero-strong-heading,
+.memberhero-item-image svg,
+.memberhero-flex-title,
+.memberhero-section-header h3,
+.memberhero-section-header h3 a {
+	color: rgb(76, 76, 76);
+}
+
+a.memberhero-action-menu,
+a.memberhero-action-menu:visited,
+a.memberhero-action-menu:hover,
+a.memberhero-action-menu:focus,
+a.memberhero-action-menu:active,
+.memberhero-profile-nav-ul li a,
+.memberhero-profile-hash,
+.memberhero-profile-hash b,
+.memberhero-profile-hash a,
+.memberhero-profile-hash a:visited,
+.memberhero-profile-hash a:hover,
+.memberhero-profile-hash a:focus,
+.memberhero-profile-hash a:active,
+.memberhero-profile-metadata,
+.memberhero-profile-meta a,
+.memberhero-profile-meta a:hover,
+.memberhero-profile-meta a:active,
+.memberhero-profile-meta a:focus,
+.memberhero-profile-meta a:visited,
+.memberhero-paginate .page-numbers,
+.memberhero-paginate a.page-numbers,
+.memberhero-paginate a.page-numbers:hover
+.memberhero-paginate a.page-numbers:focus,
+.memberhero-paginate a.page-numbers:active,
+.memberhero-message,
+.memberhero-info,
+.memberhero-info-area,
+.memberhero-globalmsg,
+ul.memberhero-errors,
+a.memberhero-button.nav,
+a.memberhero-button.nav:focus,
+.memberhero-fileinput + label,
+.memberhero-fileinput:focus + label,
+.memberhero-fileinput.has-focus + label,
+.memberhero-fileinput + label:hover,
+.memberhero-item-subhead,
+.memberhero-item-subhead ins,
+.memberhero-item-header .memberhero-item-head a.memberhero-item-meta,
+.memberhero-profile-tabs li a,
+.widget.memberhero_widget a.memberhero-action-menu,
+.widget.memberhero_widget a.memberhero-action-menu:hover,
+.widget.memberhero_widget div.memberhero-layout div.memberhero-profile-meta a,
+.widget.memberhero_widget a.memberhero-button.nav,
+.widget.memberhero_widget a.memberhero-button.nav:hover,
+.memberhero-helper,
+.memberhero,
+.memberhero-flex-title span.memberhero-flex-title-sub {
+	color: rgba(76, 76, 76, 0.85);
+}
+
+.memberhero-card-meta > div a,
+.memberhero-card-meta > div a:hover,
+.memberhero-card-meta > div a:focus,
+.memberhero-card-meta > div a:active,
+.memberhero-card-meta > div a:visited,
+.memberhero-flex-notice {
+	color: rgba(76, 76, 76, 0.45);
+}
+
+.memberhero-metadata-social a,
+.memberhero-content h3 span,
+.memberhero-item-text {
+	color: rgba(76, 76, 76, 0.55);
+}
+
+.memberhero-metadata-social a:hover,
+.memberhero-subheading {
+	color: rgba(76, 76, 76, 0.75);
+}
+
+.memberhero-modal .modal-close,
+.memberhero-input .memberhero-star-hint,
+.memberhero-item-flex {
+	color: rgba(76, 76, 76, 0.85) !important;
+}
+
+.memberhero-dropdown li a,
+.memberhero-dropdown-link,
+.memberhero-dropdown li.profile-name a:hover,
+.memberhero-dropdown li.profile-name a:focus,
+.memberhero-dropdown li.profile-name a:active {
+	color: rgba(76, 76, 76, 0.75) !important;
+}
+
+.memberhero-modal .modal-body p.modal-notice,
+.memberhero-data .memberhero-star-hint,
+.memberhero-input .star-off-png:before,
+input[type=text].memberhero-search-input:focus ~ button[type=submit] {
+	color: rgba(76, 76, 76, 0.65);
+}
+
+.memberhero-private,
+.memberhero-data .star-off-png:before,
+.memberhero-section-svg svg,
+.memberhero-input .memberhero-icon svg {
+	color: rgba(76, 76, 76, 0.35);
+}
+
+.memberhero-dropdown-divider {
+	border-bottom: 1px solid rgba(76, 76, 76, 0.1);
+}
+
+.memberhero-message,
+.memberhero-info,
+.memberhero-info-area,
+.memberhero-globalmsg {
+	border: 1px solid rgba(76, 76, 76, 0.1);
+	box-shadow: 0 4px 2px -2px rgba(76, 76, 76, 0.05);
+}
+
+a.memberhero-button.nav,
+a.memberhero-button.nav:focus,
+.memberhero-fileinput + label,
+.memberhero-fileinput:focus + label,
+.memberhero-fileinput.has-focus + label {
+	border: 1px solid rgba(76, 76, 76, 0.4);
+}
+
+.memberhero-paginate .page-numbers {
+	border: 1px solid rgba(76, 76, 76, 0.4);
+}
+
+.memberhero-paginate .page-numbers,
+.memberhero-paginate a.page-numbers,
+.memberhero-paginate a.page-numbers:hover
+.memberhero-paginate a.page-numbers:focus,
+.memberhero-paginate a.page-numbers:active {
+	border: 1px solid rgba(76, 76, 76, 0.2);
+}
+
+.memberhero-modal .modal-header,
+.memberhero-modal .modal-search input[type=text] {
+	border-bottom: 1px solid rgba(76, 76, 76, 0.1);
+}
+
+.memberhero-modal .modal-footer {
+    border-top: 1px solid rgba(76, 76, 76, 0.1);
+}
+
+.memberhero-button.nav:focus {
+	box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(76, 76, 76, 0.4);
+}
+
+.memberhero-button.nav:active,
+.memberhero-fileinput:focus + label,
+.memberhero-fileinput.has-focus + label,
+.memberhero-fileinput:active + label {
+	box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(76, 76, 76, 0.8);
+}
+
+.memberhero-cover-cropper-holder .croppie-container .cr-slider-wrap {
+	box-shadow: 0 2px 5px -2px rgba(76, 76, 76, 0.25);
+}
+
+/**
+ *****
+ *********
+ */
+ul.memberhero-errors {
+	background: rgba(187, 0, 0, 0.05);
+}
+
+.memberhero-error,
+ul.memberhero-errors li.memberhero-error-header {
+	background: rgba(187, 0, 0, 0.09);
+}
+
+a.memberhero-button.alert,
+a.memberhero-button.alert:focus,
+input[type=submit].memberhero-button.alert,
+input[type=submit].memberhero-button.alert:focus {
+	background: rgba(187, 0, 0, 0.7) !important;
+}
+
+a.memberhero-button.alert:hover,
+input[type=submit].memberhero-button.alert:hover {
+	background: rgba(187, 0, 0, 0.8) !important;
+}
+
+.memberhero-label label.memberhero-invalid,
+.memberhero-input .memberhero-input input[type=checkbox].memberhero-invalid + svg,
+.memberhero-alert {
+	color: rgb(187, 0, 0);
+}
+
+.memberhero-input input[type=text].memberhero-invalid,
+.memberhero-input input[type=password].memberhero-invalid,
+.memberhero-input textarea.memberhero-invalid {
+	border: 1px solid rgba(187, 0, 0, 0.8) !important;
+	background: rgba(187, 0, 0, 0.04) !important;
+	color: rgb(187, 0, 0) !important;
+	box-shadow: 0 0 0 1px rgba(187, 0, 0, 0.8) !important;
+}
+
+.memberhero-input input[type=checkbox].memberhero-invalid,
+.memberhero-input input[type=radio].memberhero-invalid {
+	border: 1px solid rgba(187, 0, 0, 0.3) !important;
+    box-shadow: 0 0 0 1px rgba(187, 0, 0, 0.8) !important;
+}
+
+.memberhero-input input.memberhero-invalid:-webkit-autofill,
+.memberhero-input input.memberhero-invalid:-webkit-autofill:focus {
+	box-shadow: 0 0 0 1px rgba(187, 0, 0, 0.8), 0 0 0 50px #fff inset !important;
+	-webkit-text-fill-color: rgb(187, 0, 0) !important;
+	border: 1px solid rgba(187, 0, 0, 0.8) !important;
+}
+
+a.memberhero-button.alert:focus,
+input[type=submit].memberhero-button.alert:focus {
+	box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(187, 0, 0, 0.4);
+}
+
+a.memberhero-button.alert:active,
+input[type=submit].memberhero-button.alert:focus {
+	box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(187, 0, 0, 0.8);
+}

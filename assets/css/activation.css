@@ -1,0 +1,85 @@
+/* Activation */
+div.memberhero-message {
+	overflow: hidden;
+	position: relative;
+	border-left-color: rgba(118, 10, 245, 0.6) !important;
+}
+
+div.memberhero-message p {
+	max-width: 700px;
+}
+
+div.memberhero-message p:last-child {
+	max-width: inherit;
+}
+
+.memberhero-message .button-primary {
+	background: rgb(124, 13, 255);
+	border-color: rgb(118, 10, 245);
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, .25), 0 1px 0 rgb(118, 10, 245);
+	color: #fff;
+	text-shadow: 0 -1px 1px rgb(118, 10, 245), 1px 0 1px rgb(118, 10, 245), 0 1px 1px rgb(118, 10, 245), -1px 0 1px rgb(118, 10, 245);
+}
+
+.memberhero-message .button-primary:active,
+.memberhero-message .button-primary:focus,
+.memberhero-message .button-primary:hover {
+	background: rgb(118, 10, 245);
+	border-color: rgb(118, 10, 245);
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, .25), 0 1px 0 rgb(118, 10, 245);
+}
+
+.memberhero-message a.memberhero-message-close {
+	position: static;
+	float: right;
+	top: 0;
+	right: 0;
+	padding: 0 15px 10px 28px;
+	margin-top: -10px;
+	font-size: 13px;
+	line-height: 1.23076923;
+	text-decoration: none;
+}
+
+.memberhero-message a.memberhero-message-close::before {
+	position: relative;
+	top: 18px;
+	left: -20px;
+	-webkit-transition: all .1s ease-in-out;
+	transition: all .1s ease-in-out;
+}
+
+.memberhero-message .button-primary,
+.memberhero-message .button-secondary {
+	text-decoration: none!important;
+}
+
+/* Notice */
+.memberhero-access {
+	padding: 30px 30px 30px 90px !important;
+	background-image: url(../images/menu.png) !important;
+	background-repeat: no-repeat !important;
+	background-size: 40px 40px !important;
+	background-position: 34px 25px !important;
+	border: 0 !important;
+	background-color: #fff !important;
+	box-shadow: none !important;
+	border-radius: 6px !important;
+}
+
+.memberhero-access p {
+	margin: 0 0 10px !important;
+	font-size: 1em !important;
+}
+
+.memberhero-access p.mhero-lead {
+	font-weight: bold !important;
+	font-size: 1.1em !important;
+	color: rgb(124, 13, 255) !important;
+	margin: 0 0 4px !important;
+}
+
+.memberhero-message.memberhero-access a.memberhero-message-close {
+	margin-right: -20px;
+	margin-top: -30px;
+}
